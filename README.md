@@ -1,1 +1,2 @@
 # Bakery-Website
+Bellaria Bakery is a website I created because baking is my hobby and something I love. The site is made using HTML, CSS, Bootstrap, and a bit of JavaScript. It showcases a variety of tasty baked goods like cakes, pastries, and bread. The website is easy to use and works well on all devices. Visitors can browse the menu, explore the items, and place orders with ease. This project is special to me because it combines my passion for baking and web development. It’s simple, fun, and perfect for bakery lovers!
