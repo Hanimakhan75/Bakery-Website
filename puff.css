@@ -1,0 +1,161 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:  "Merienda", cursive;
+  
+}
+.navbar-style{
+    height: 65px;
+}
+
+.logo{
+    display: flex;
+    gap: 20px;
+}
+.bellaria-img{
+    gap: 90px;
+}
+.cart{
+    margin-left: 5%;
+}
+.navbar{
+    background-color: #fff;
+}
+.navbar-hover:hover{
+    font-weight: bolder;
+    color: rgb(237, 104, 148) !important;
+}
+.cake-logo{
+    width: 60px;
+    height: 60px;
+    background-position: cover;
+    background-size: cover;
+    border-radius: 50%;
+}
+.cart{
+    margin-left: 7%;
+}
+.card-img-top{
+    height: 40vh;
+    width: 100%;
+}
+.box:hover{
+    box-shadow:  rgb(237, 104, 148) 0px 5px 15px;
+}
+
+
+.order-now{
+    width: 120px;
+    height: 37px;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    background-color:#21100f ;
+}
+.order-now:hover{
+    color: white;
+    font-size: large;
+}
+.order-now{
+    border-radius: 8%;
+    background-color: #21100f;
+    border: none;
+}
+
+/* CAKE DETAILS */
+
+.cupcake{
+    width: 100px;
+    height: 20px;
+   
+}
+legend{
+    padding-top: 20px;
+    font-weight: 550;
+    margin-left: 20px;
+}
+h5{
+    color:rgb(237, 104, 148) ;
+}
+.form{
+    height: 100vh;
+}
+.order_form{
+    width: 35%;
+    height: 85vh;
+    box-shadow:  rgb(237, 104, 148) 0px 5px 15px;
+    position: absolute;
+    top: 60%;
+    display: none;
+
+}
+
+.order_form input{
+    margin-top: 25px;
+    width: 45%;
+    height: 35px;
+    margin-left: 20px;
+}
+.order_form textarea{
+    width: 95%;
+    margin-left: 20px;
+    height: 10vh;
+}
+.label2 {
+    margin-left: 20px;
+}
+select{
+    height: 30px;
+    margin-left: 10px;
+}
+.cat_select{
+    margin-left: 5px;
+}
+.label3{
+    margin-left: 20px;
+}
+.des_textarea{
+    margin-top: 30px;
+    padding-left: 10px;
+
+}
+::placeholder{
+    padding-left: 10px;
+}
+input{
+    padding-left: 10px;
+}
+form .order-now{
+    margin-left: 20px;
+}
+.cnt_cart{
+    width: 30%;
+    height: 30vh;
+    box-shadow:  rgb(129, 19, 56) 0px 5px 15px;
+    display: none;
+}
+.check{
+    font-size: 50px;
+    margin-left: 40%;
+    color: rgb(237, 104, 148) ;
+
+}
+.cnt_cart p{
+    margin-left: 90px;
+    font-size: large;
+}
+.cnt_cart button{
+    width:65px;
+    height: 35px;
+    margin-left: 40%;
+    margin-top: 10px;
+    border: none;
+    background-color: rgb(237, 104, 148);
+    color: white;
+    border-radius: 5px;
+    font-weight: 600;
+}
+.cnt_cart button:hover{
+    font-size: larger;
+}
